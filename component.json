@@ -1,0 +1,13 @@
+{
+  "name": "hidolly",
+  "repo": "pazguille/hidolly",
+  "description": "Deep cloning of objects and arrays. Super powerful and one-liner, just xxx bytes",
+  "version": "0.0.1",
+  "author": "@pazguille <guille87paz@gmail.com>",
+  "twitter": "@pazguille",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT",
+  "main": "dist/hidolly.js",
+  "scripts": ["dist/hidolly.js"]
+}
