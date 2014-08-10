@@ -1,7 +1,7 @@
 {
   "name": "hidolly",
   "repo": "pazguille/hidolly",
-  "description": "Deep cloning of objects and arrays. Super powerful and one-liner, just xxx bytes",
+  "description": "Super powerful and super tiny util to deep cloning of objects and arrays",
   "version": "0.0.1",
   "author": "@pazguille <guille87paz@gmail.com>",
   "twitter": "@pazguille",

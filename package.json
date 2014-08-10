@@ -1,7 +1,7 @@
 {
   "name": "hidolly",
   "repository": "git@github.com:pazguille/aload.git",
-  "description": "Deep cloning of objects and arrays. Super powerful and one-liner, just xxx bytes",
+  "description": "Super powerful and super tiny util to deep cloning of objects and arrays",
   "author": "Guille Paz <guille87paz@gmail.com>",
   "version": "0.0.1",
   "scripts": {
