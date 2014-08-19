@@ -1,6 +1,6 @@
 {
   "name": "hidolly",
-  "repository": "git@github.com:pazguille/aload.git",
+  "repository": "git@github.com:pazguille/hidolly.git",
   "description": "Super powerful and super tiny util to deep cloning of objects and arrays",
   "author": "Guille Paz <guille87paz@gmail.com>",
   "version": "0.0.1",

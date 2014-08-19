@@ -5,7 +5,6 @@
  * Released under the MIT license.
  */
 (function(window) {
-
 'use strict';
 
 /**
